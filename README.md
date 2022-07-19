@@ -1,4 +1,4 @@
-# Histórico IPCA por Presidentes
+# Histórico IPCA por Presidentes (República e BC)
 Esse projeto tem como objetivo analisar a evolução da Inflação Brasileira (IPCA Mensal) para dois agentes distintos: os Presidentes do Banco Central e os Presidentes da República
 
 - Há um script para o tratamento de cada um dos agentes.
