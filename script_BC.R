@@ -1,12 +1,6 @@
 library(tidyverse)
 library(ggplot2)
 
-
-# TO-DO ARTUR NÃO ESQUECE -------------------------------------------------
-
-### ALTERAR AS LABELS DOS PRESIDENTES DO BC PARA INCLUIR PERÍODO DO MANDATO
-### TAL COMO NOS PRESIDENTES: \n(XXXX-XXXX) <- MODELO ANOTAÇÃO
-
 # Abrindo df
 bd <- rbcb::get_series(c(IPCA = 433))
 
